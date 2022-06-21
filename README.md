@@ -13,4 +13,6 @@ The following functionality is completed:
 
 
 
-https://github.com/PhuxWil/RockPaperScissors/blob/main/RPS.gif
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/PhuxWil/RockPaperScissors/blob/main/RPS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
