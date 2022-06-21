@@ -11,3 +11,6 @@ The following functionality is completed:
 - [x] User can choose between Rock, Paper, and Scissors.
 - [x] User can view the scoreboard after a win or loss
 
+
+
+https://github.com/PhuxWil/RockPaperScissors/blob/main/RPS.gif
